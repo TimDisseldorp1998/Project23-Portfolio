@@ -239,7 +239,7 @@ body::after {
 }
 
 .nav__link--werk::before {
-    background-image: url('../img/home-icon.svg');
+    background-image: url('../img/werk-icon.svg');
 }
 
 .nav__link--contact::before {
@@ -500,6 +500,7 @@ body::after {
     width: 100%;
     display: block;
 }
+
 
 
 @media screen and (min-width: 600px) {
